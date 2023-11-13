@@ -1,3 +1,3 @@
-# Binary Search LeetCode Solutions
+# Date Structure and Algorithm LeetCode Solutions
 
-Welcome to my repository of Binary Search solutions for LeetCode problems. This repository contains my solutions to various binary search questions on LeetCode.
+Welcome to my repository of DSA solutions for LeetCode problems. This repository contains my solutions to various algorithm questions from LeetCode.
