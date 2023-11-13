@@ -1,3 +1,3 @@
-# Date Structure and Algorithm LeetCode Solutions
+Date Structure and Algorithm Solutions
 
-Welcome to my repository of DSA solutions for LeetCode problems. This repository contains my solutions to various algorithm questions from LeetCode.
+Welcome to my repository of DSA solutions. This repository contains my solutions to various algorithm questions from Leetcode and FreeCodeCamp courses. 
