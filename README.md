@@ -1,4 +1,5 @@
-Date Structure and Algorithm Solutions
+# Date Structure and Algorithm Solutions
+
 Welcome to my repository of Data Structures and Algorithms (DSA) solutions! In this space, you'll find my  attempts at solving various algorithm questions sourced from LeetCode and FreeCodeCamp courses.
 
 What You'll Find Here
